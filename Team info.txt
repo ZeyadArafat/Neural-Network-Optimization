@@ -1,0 +1,3 @@
+1) Moaaz Mohamed Soliman - 20230410 - make Random Search Optimization Algo and make the confusion matrix report between the two models
+2) Zeyad Mohamed Arafat - 20230161 - implement the keras built in model and custome model
+3) 
